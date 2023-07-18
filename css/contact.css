@@ -1,0 +1,82 @@
+.container {
+    display: flex;
+    width: 100%;
+    position: relative;
+    justify-content: center;
+   
+}
+.image img {
+    width: 350px;
+    height: 350px;
+}
+form{
+    width: 80%;
+    height: 80%;
+    background-color: #ffffff;
+    position: relative;
+    top: 5%;
+    left: 5%;
+    
+}
+.header{
+    text-align: center;
+    
+}
+.header img{
+    max-width: 25%;
+}
+.header p{
+font-size: 1.5em;
+text-transform: capitalize;
+}
+i{
+    position: absolute;
+    padding-left: 20px;
+  padding-top:3%;
+  font-size: 1.5em;
+}
+  input {
+    display: inline-block;
+    width:80%;
+    left:  12%;;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    line-height: 4;
+    border-bottom: 1px solid #222222;
+    text-transform: capitalize;
+   position:relative;
+}
+
+.login{
+    padding-top: 30px;
+    text-align: center;
+}
+i{
+    width: 20%;
+}
+.fas{
+    color:#0c5541;
+}
+.btn{
+    width: 70%;
+    padding: 10px;
+    background: linear-gradient(90.21deg,#0c5541 -5.91%,#474748 111.58%);
+
+    border: none;
+    border-radius: 20px;
+    font-size: 1em;
+    text-transform: uppercase;
+    color: #0a191d;
+}
+.btn:hover{
+    background-color: #222222;
+    color:#ffffff;
+}
+a{
+    text-decoration: none;
+}
+
+.ddd{text-align: center;
+
+padding-top: 10px;}

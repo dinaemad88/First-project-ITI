@@ -1,0 +1,124 @@
+.collection {
+    width: 80%;
+    display: flex;
+    padding-top: 10px;
+}
+.technical {
+    width: 50%;
+    margin-left: 20px;
+}
+h2 {
+    text-transform: capitalize;
+    text-align: center;
+    font-weight: bold;
+    color: #0c5541 ;
+}
+.words {
+    margin-bottom: 20px;
+    
+}
+p {
+    font-weight: 400;
+    font-size: 1.2em;
+}
+.container {
+
+    background-color:rgb(221, 221, 229);
+   
+}
+.html {
+    width: 90%;
+    background: linear-gradient(90.21deg,#0c5541 -5.91%,#474748 111.58%);
+
+}
+.css {
+    width: 80%;
+    background: linear-gradient(90.21deg,#0c5541 -5.91%,#474748 111.58%);
+
+}
+.js {
+    width: 65%;
+    background: linear-gradient(90.21deg,#0c5541 -5.91%,#474748 111.58%);
+
+}
+.php{
+    width: 60%;
+    background: linear-gradient(90.21deg,#0c5541 -5.91%,#474748 111.58%);
+
+}
+.skills {
+    text-align: right;
+  
+    color: white;
+    margin-left: -15px;
+    font-size: 1.3em;
+}
+.perfo {
+    width: 30%;
+    float: right;
+  
+    
+  }
+  
+  
+  
+  .progress-bar {
+    display: flex;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: 
+    radial-gradient(closest-side, white 79%, transparent 80% 100%),
+    conic-gradient(#0c5541 90%, #474748 0);    
+    }
+    
+    .progress-bar::before {
+    content: "90%";
+    }
+    .progress-bar1 {
+      display: flex;
+      margin-left: 50px;
+      margin-bottom: 20px;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
+      background: 
+      radial-gradient(closest-side, white 79%, transparent 80% 100%),
+      conic-gradient(#0c5541 80%, #474748 0);    
+      }
+      
+      .progress-bar1::before {
+      content: "80%";
+      }
+      .progress-bar2 {
+        display: flex;
+        margin-left: 50px;
+        margin-bottom: 20px;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        background: 
+        radial-gradient(closest-side, white 79%, transparent 80% 100%),
+        conic-gradient(#0c5541 75%, #474748 0);    
+        }
+        
+        .progress-bar2::before {
+        content: "75%";
+        }
+    .prof-title{
+    
+      display: flex;
+      margin: 20px;
+      
+    }
